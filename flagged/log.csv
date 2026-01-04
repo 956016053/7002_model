@@ -1,0 +1,3 @@
+Child Age (Months),Sex,Birth Weight (kg),Feeding Practice,Gestational Age (Weeks),Delivery Mode,Maternal Age (Years),output,flag,username,timestamp
+27,Male,3,Formula feeding,39,Vaginal,25,"🔴 **High Risk**
+Risk factors detected (Stunting/Wasting).",,,2025-12-27 18:42:03.758761
